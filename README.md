@@ -1,2 +1,2 @@
 # Skill-craft-Ed-tech
-This platform is for students and access , read and create educational courses.
+This platform allows students to access, read, and create educational courses.
